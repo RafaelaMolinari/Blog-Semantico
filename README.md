@@ -1,1 +1,2 @@
-# Blog-Sem-ntico
+# Blog-Semantico
+Blog Semântico: Desenvolvimento de um blog utilizando práticas de desenvolvimento semântico, com o uso adequado de tags HTML5 e estruturação de conteúdo para melhorar a acessibilidade, SEO e experiência do usuário. O projeto organiza o conteúdo de maneira lógica e compreensível, utilizando elementos como `<article>`, `<section>`, `<header>`, `<footer>`, entre outros, para criar uma navegação intuitiva e facilitar a leitura. O objetivo é oferecer uma plataforma de blog que seja não apenas vi
